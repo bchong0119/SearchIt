@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block body %}
+<!--// 
+TODO:
+    Display album information.
+//-->
+
+<table class="table table-striped">
+  <thead>
+    <th>Number</th>
+    <th>Name</th>
+  </thead>
+  <tbody>
+  {% for track in album %}
+    <tr>
+      <td>{{track[1]}}</td>
+      <td><a href="/{{prefix}}/{{track[0]}}">{{track[2]}}</a></td>
+    </tr> 
+  {% end %}
+  </tbody>
+</table>
+{% end %}

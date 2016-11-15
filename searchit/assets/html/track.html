@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block body %}
+<!--//
+TODO:
+
+    Display track information.
+
+//-->
+
+<dl>
+  {% for name in track %}
+    <dt>Track ID</dt>
+    <dd>{{name[0]}}</dd>
+
+    <dt>Artist</dt>
+    <dd><a href="/artist/{{name[1]}}">{{name[2]}}</a></dd>
+
+    <dt>Album</dt>
+    <dd><a href="/album/{{name[3]}}">{{name[4]}}</a></dd>
+
+    <dt>Track Number</dt>
+    <dd>{{name[5]}}</dd>
+
+    <dt>Track Name</dt>
+    <dd>{{name[6]}}</dd>
+  {% end %}
+</dl>
+
+{% end %}

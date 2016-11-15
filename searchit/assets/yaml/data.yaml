@@ -1,0 +1,136 @@
+- name:     Taylor Swift
+  image:    https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Taylor_Swift_Red_Tour_2%2C_2013.jpg/800px-Taylor_Swift_Red_Tour_2%2C_2013.jpg
+  albums:
+      - name:   Red
+        image:  https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png
+        tracks:
+          - State of Grace
+          - Red
+          - Treacherous
+          - I Knew You Were Trouble
+          - All Too Well
+          - 22
+          - I Almost Do
+          - We Are Never Ever Getting Back Together
+          - Stay Stay Stay
+          - The Last Time
+          - Holy Ground
+          - Sad Beautiful Tragic
+          - The Lucky One
+          - Everything Has Changed
+          - Starlight
+          - Begin Again
+
+      - name:   1989
+        image:  https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Taylor_Swift_-_1989.png/220px-Taylor_Swift_-_1989.png
+        tracks:
+          - Welcome to New York
+          - Blank Space
+          - Style
+          - Out of the Woods
+          - All You Had to Do Was Stay
+          - Shake It Off
+          - I Wish You Would
+          - Bad Blood
+          - Wildest Dreams
+          - How You Get the Girl
+          - This Love
+          - I Know Places
+          - Clean
+
+- name:     Echosmith
+  image:    https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Echosmith_2014.jpg/800px-Echosmith_2014.jpg
+  albums:
+      - name:   Talking Dreams
+        image:  https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Echosmith_-_Talking_Dreams_%28Alternate_Album_Cover%29.png/220px-Echosmith_-_Talking_Dreams_%28Alternate_Album_Cover%29.png
+        tracks:
+          - Come Together
+          - "Let's Love"
+          - Cool Kids
+          - March into the Sun
+          - Come with Me
+          - Bright
+          - Talking Dreams
+          - Tell Her You Love Her
+          - Ran Off in the Night
+          - Nothing's Wrong
+          - Safest Place
+          - Surround You
+
+- name:     Vampire Weekend
+  image:    https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Vampire_Weekend_Red_Rocks_05.20.13.jpg/250px-Vampire_Weekend_Red_Rocks_05.20.13.jpg
+  albums:
+      - name:   Modern Vampires of the City
+        image:  https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Vampire_Weekend_-_Modern_Vampires_of_the_City.png/220px-Vampire_Weekend_-_Modern_Vampires_of_the_City.png
+        tracks:
+          - Obvious Bicycle
+          - Unbelievers
+          - Step
+          - Diane Young
+          - "Don't Lie"
+          - Hannah Hunt
+          - Everlasting Arms
+          - Finger Back
+          - Worship You
+          - Ya Hey
+          - Hudson
+          - Young Lion
+
+- name:     One Direction
+  image:    http://i1.mirror.co.uk/incoming/article6756494.ece/ALTERNATES/s615b/One-Direction-main.jpg
+  albums:
+      - name:   Made In The A.M.
+        image:  http://www.onedirectionmusic.com/assets-splash/img/header-mobile.jpg
+        tracks:
+          - Hey Angel
+          - Perfect
+          - Infinity
+          - End of the Day
+          - If I Could Fly
+          - Long Way Down
+          - Never Enough 
+          - Olivia
+          - What a Feeling
+          - Love You Goodbye
+          - I Want to Write You a Song
+          - History
+          - Temporary Fix
+          - Walking in the Wind
+          - Wolves
+          - A.M.
+
+- name:     Drake
+  image:    http://www.etonline.com/news/2015/10/24187336/set_drake_hotling_bling_video-640.jpg
+  albums:
+      - name:   Nothing Was the Same
+        image:  https://upload.wikimedia.org/wikipedia/en/d/d0/Nothing_Was_the_Same_cover_1.png
+        tracks:
+          - Tuscan Leather
+          - Furthest Thing
+          - Started From The Bottom
+          - Wu-Tang Forever
+          - Own It
+          - Worst Behavior
+          - From Time
+          - Hold On, We're Going Home
+          - Connect
+          - The Language
+          - 305 To My City
+          - Too Much
+          - Pound Cake / Paris Morton Music 2
+          - Come Thru
+          - All Me
+
+- name:     Big Bang 
+  image:    http://www.hkonlinetv.com/wp-content/uploads/2015/11/BIGBANG1.jpg 
+  albums:
+      - name:   M
+        image:  http://imagizer.imageshack.us/v2/800x600q90/913/102Aoa.jpg
+        tracks:
+          - LOSER
+          - BAE BAE
+      - name: A
+        image: http://imagizer.imageshack.us/v2/800x600q90/661/CgmgAz.jpg
+        tracks: 
+          - BANG BANG BANG
+          - WE LIKE 2 PARTY
